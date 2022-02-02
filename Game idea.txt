@@ -1,0 +1,5 @@
+GAME IDEA
+
+The game will auto-create math question.Then the player should anwser them to get point. 
+The player will have 3 health. Every time the player get the wrong answer, health -1.
+The Game will be end when The Player's Health ==0.
